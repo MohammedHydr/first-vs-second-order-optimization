@@ -104,39 +104,39 @@ The classification metrics are almost identical because all methods optimize the
 
 ### Iterations Used
 
-![Iterations Used](plot/cmp_01_iterations.png)
+![Iterations Used](plots/cmp_01_iterations.png)
 
 ### Total Training Time
 
-![Total Training Time](plot/cmp_02_total_time.png)
+![Total Training Time](plots/cmp_02_total_time.png)
 
 ### Runtime per Iteration
 
-![Runtime per Iteration](plot/cmp_03_iter_time.png)
+![Runtime per Iteration](plots/cmp_03_iter_time.png)
 
 ### Final Objective Value
 
-![Final Objective Value](plot/cmp_04_final_loss.png)
+![Final Objective Value](plots/cmp_04_final_loss.png)
 
 ### Objective Value vs Iteration
 
-![Objective Value vs Iteration](plot/cmp_05_loss_vs_iteration.png)
+![Objective Value vs Iteration](plots/cmp_05_loss_vs_iteration.png)
 
 ### Gradient Norm vs Iteration
 
-![Gradient Norm vs Iteration](plot/cmp_06_grad_norm_vs_iteration.png)
+![Gradient Norm vs Iteration](plots/cmp_06_grad_norm_vs_iteration.png)
 
 ### Objective Value vs Time
 
-![Objective Value vs Time](plot/cmp_07_loss_vs_time.png)
+![Objective Value vs Time](plots/cmp_07_loss_vs_time.png)
 
 ### Scalability: Total Runtime vs Problem Size
 
-![Scalability Total Runtime](plot/cmp_08_scalability_total_runtime.png)
+![Scalability Total Runtime](plots/cmp_08_scalability_total_runtime.png)
 
 ### Scalability: Cost per Iteration vs Problem Size
 
-![Scalability Iteration Time](plot/cmp_09_scalability_iter_time.png)
+![Scalability Iteration Time](plots/cmp_09_scalability_iter_time.png)
 
 ---
 
